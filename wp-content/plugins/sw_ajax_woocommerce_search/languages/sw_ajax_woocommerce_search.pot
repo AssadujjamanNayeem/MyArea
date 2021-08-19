@@ -1,0 +1,162 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SW WooCommerce Ajax Search\n"
+"POT-Creation-Date: 2019-10-04 16:34+0700\n"
+"PO-Revision-Date: 2015-12-25 14:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sw-woo-search-widget.php:45
+msgid ""
+"SW Ajax WooCommerce Search is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: sw-woo-search-widget.php:126
+msgid ""
+"This plugins allows users to search products in your website with the results "
+"in real time"
+msgstr ""
+
+#: sw-woo-search-widget.php:132 sw-woo-search-widget.php:203
+msgid "SW Ajax WooCommerce Search"
+msgstr ""
+
+#: sw-woo-search-widget.php:198
+msgid "All Categories"
+msgstr ""
+
+#: sw-woo-search-widget.php:207
+msgid "SW Shortcodes"
+msgstr ""
+
+#: sw-woo-search-widget.php:213 sw-woo-search-widget.php:216
+#: sw-woo-search-widget.php:458
+msgid "Title"
+msgstr ""
+
+#: sw-woo-search-widget.php:222 sw-woo-search-widget.php:225
+#: sw-woo-search-widget.php:464
+msgid "Show Title"
+msgstr ""
+
+#: sw-woo-search-widget.php:231 sw-woo-search-widget.php:479
+msgid "Search Type"
+msgstr ""
+
+#: sw-woo-search-widget.php:234 sw-woo-search-widget.php:485
+msgid "Search By Keyword"
+msgstr ""
+
+#: sw-woo-search-widget.php:235 sw-woo-search-widget.php:489
+msgid "Search By Keyword and SKU"
+msgstr ""
+
+#: sw-woo-search-widget.php:237
+msgid "Select search type config for ajax search."
+msgstr ""
+
+#: sw-woo-search-widget.php:243 sw-woo-search-widget.php:494
+msgid "Image Width(px)"
+msgstr ""
+
+#: sw-woo-search-widget.php:246
+msgid "Image Width"
+msgstr ""
+
+#: sw-woo-search-widget.php:252 sw-woo-search-widget.php:500
+msgid "Image Height(px)"
+msgstr ""
+
+#: sw-woo-search-widget.php:255
+msgid "Image Height"
+msgstr ""
+
+#: sw-woo-search-widget.php:261 sw-woo-search-widget.php:264
+#: sw-woo-search-widget.php:506
+msgid "Number Of Items In List"
+msgstr ""
+
+#: sw-woo-search-widget.php:270 sw-woo-search-widget.php:273
+#: sw-woo-search-widget.php:512
+msgid "Number Of Character For Starting Search"
+msgstr ""
+
+#: sw-woo-search-widget.php:279 sw-woo-search-widget.php:282
+#: sw-woo-search-widget.php:518
+msgid "Show Category List"
+msgstr ""
+
+#: sw-woo-search-widget.php:288 sw-woo-search-widget.php:291
+#: sw-woo-search-widget.php:533
+msgid "Show Product Image"
+msgstr ""
+
+#: sw-woo-search-widget.php:297 sw-woo-search-widget.php:300
+#: sw-woo-search-widget.php:548
+msgid "Show Price Of Product"
+msgstr ""
+
+#: sw-woo-search-widget.php:306 sw-woo-search-widget.php:563
+msgid "Layout"
+msgstr ""
+
+#: sw-woo-search-widget.php:309
+msgid "Select Layout"
+msgstr ""
+
+#: sw-woo-search-widget.php:315 sw-woo-search-widget.php:574
+msgid "Extra Class"
+msgstr ""
+
+#: sw-woo-search-widget.php:318
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: sw-woo-search-widget.php:361
+msgid "Sku"
+msgstr ""
+
+#: sw-woo-search-widget.php:454
+msgid "Data Config"
+msgstr ""
+
+#: sw-woo-search-widget.php:470 sw-woo-search-widget.php:524
+#: sw-woo-search-widget.php:539 sw-woo-search-widget.php:554
+msgid "Yes"
+msgstr ""
+
+#: sw-woo-search-widget.php:474 sw-woo-search-widget.php:528
+#: sw-woo-search-widget.php:543 sw-woo-search-widget.php:558
+msgid "No"
+msgstr ""
+
+#: sw-woo-search-widget.php:569
+msgid "Default"
+msgstr ""
+
+#: themes/default.php:34
+msgid "All Category"
+msgstr ""
+
+#: themes/default.php:79
+msgid "Search Item..."
+msgstr ""
+
+#: themes/default_ajax.php:69
+msgid "No products found."
+msgstr ""

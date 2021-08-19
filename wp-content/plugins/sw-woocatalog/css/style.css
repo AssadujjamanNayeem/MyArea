@@ -1,0 +1,63 @@
+.woocatalog-contact{
+	margin-bottom: 15px;
+}
+.woocatalog-contact > a{
+	text-transform: uppercase;
+	padding: 7px 20px;
+	border-radius: 3px;
+	color: #fff;
+	display: inline-block;
+	vertical-align: top;
+	background: #ff5c00;
+}
+.woocatalog-contact > a:hover{
+	background: #c74a00;
+	color: #fff;
+}
+#woocatalog_contact{
+	margin-bottom: 30px;
+}
+#woocatalog_contact .input-wrapper{
+	width: 49.8%;
+	margin-bottom: 10px;
+}
+#woocatalog_contact .textarea-wrapper{
+	margin-bottom: 20px;
+}
+#woocatalog_contact .input-wrapper input{
+	background: none;
+	width: 100%;
+	padding: 7px 10px;
+	border-radius: 3px;
+}
+#woocatalog_contact .textarea-wrapper textarea{
+	width: 70%;
+}
+#woocatalog_contact label{
+	display: block;
+	margin-bottom: 5px;
+}
+#woocatalog_contact button{
+	background: #ff5c00;
+	padding: 5px 25px;
+	text-transform: uppercase;
+	border: 0;
+	border-radius: 3px;
+	color: #fff;
+}
+#woocatalog_contact.loading{
+	height: auto;
+}
+#woocatalog_contact.loading:before{
+	background-color: rgba(255,255,255, 0.5);
+}
+.disabled-reviews .reviews-content, .product-countdown, .count-title{
+	display: none;
+}
+#woocatalog_alert span{
+	font-weight: bold;
+	color: #028c00;
+}
+#woocatalog_alert span.booking-error{
+	color: #d20000;
+}

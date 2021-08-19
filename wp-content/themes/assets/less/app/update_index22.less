@@ -1,0 +1,158 @@
+.home-style22{
+	.wpb_revslider_element {
+		.sale-up{
+			background: #fff;
+			&:before{
+				content: "";
+				position: absolute;
+				bottom: 0;
+				width: 0;
+				left: -13px;
+				height: 0;
+				border-right: 13px solid #fff;
+				border-top: 13px solid transparent;
+				border-bottom: 0px solid transparent;
+			}
+			&:after{
+				content: "";
+				position: absolute;
+				top: 0;
+				width: 0;
+				left: -13px;
+				height: 0;
+				border-right: 13px solid #fff;
+				border-bottom: 13px solid transparent;
+				border-top: 0px solid transparent;
+			}
+			span{
+				position: relative; padding: 0 15px; display: block;
+				&:before{
+					content: "";
+					position: absolute;
+					bottom: 0;
+					width: 0;
+					right: -13px;
+					height: 0;
+					border-left: 13px solid #fff;
+					border-top: 13px solid transparent;
+					border-bottom: 0px solid transparent;
+				}
+				&:after{
+					content: "";
+					position: absolute;
+					top: 0;
+					width: 0;
+					right: -13px;
+					height: 0;
+					border-left: 13px solid #fff;
+					border-bottom: 13px solid transparent;
+					border-top: 0px solid transparent;
+				}
+			}
+		}
+	}
+	.responsive-post-slider, .sw-brand-container-slider{
+		position: relative;
+	}
+	.header-bottom{
+		background: url("../assets/img/bg-top.jpg") no-repeat center center; background-size: cover; box-shadow: none;
+	}
+	.sale-off{
+		position:absolute;
+		z-index:1;
+		top:0;
+		right:10px;
+		font-size:12px;
+		font-weight:bold;
+		color:#fff;
+		text-align:center;
+		display:inline-block;
+		background: url(../assets/img/sale-chris.png) center center no-repeat;
+		width: 40px; height: 54px; background-color: initial; border-radius: 0; line-height: 66px; font-weight: normal;
+		.rtl &{
+			left:10px; right:auto;
+		}
+	}
+	.sw-newlabel{
+		background: url(../assets/img/new-chris.png) center center no-repeat;
+		right: auto; left: 10px; width: 38px; height: 53px; text-transform: uppercase;
+		.rtl &{
+			left: auto; right: 10px;
+		}
+	}
+	.countdown-slider{
+		position: relative;
+		&:before{
+			content: "";
+			width: 163px;
+			height: 170px;
+			background: url(../assets/img/icon-chris4.png) center center no-repeat;
+			position: absolute;
+			top: -36px;
+			right: -24px;
+			z-index: 2;
+		}
+		.sale-off, .sw-newlabel{
+			display: none;
+		}
+	}
+	.footer .footer-block1{
+		position: relative;
+		&:before{
+			content: ""; width: 100%; position: absolute; top: 5%; left: 0;right: 0; border: 1px #fff dashed;
+			border-width: 1px 0; height: 90%; display: block;
+		}
+	}
+	&.rtl {
+		.countdown-slider:before{
+			right: auto; left: -24px; .rotateY(180deg);
+		}
+	}
+	.topsearch-entry.on:before{
+		height: 0;
+	}
+}
+
+
+
+
+
+
+@media (max-width: 1199px) {
+
+}
+@media (min-width: 991px) and (max-width: 1199px) {
+	.home-style22{
+		.wrapper_vertical_menu .vertical-megamenu > li > a{
+			line-height: 41px;
+		}
+		.wrapper_vertical_menu .vertical-megamenu > li.revo-menu-img > a span.menu-img{
+			top: 12px;
+		}
+	}
+}
+@media (min-width: 767px) and (max-width: 991px) {
+	.header-style1 .header-mid.sticky-menu .sticky-search, .header-style1 .header-mid.sticky-menu .sticky-cart{
+		margin-right: 10px;
+	}
+}
+@media (max-width: 767px) {
+	.header-style1{
+		.header-top {
+			.widget_nav_menu h3{
+				padding-left: 10px;
+				.rtl &{
+					padding-left: 0; padding-right: 10px; border-right: 1px #ddd solid;
+				}
+			}
+			.top-login{
+				padding-top: 11px;
+			}
+		}
+	}
+}
+@media (max-width: 320px) {
+	.rtl .header-style1 .header-top .widget_nav_menu h3{
+		padding-right: 0;
+	}
+}

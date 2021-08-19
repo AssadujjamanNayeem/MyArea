@@ -1,0 +1,10 @@
+.wpgmza-store-locator > div > *{display:inline-block;}
+.wpgmza-store-locator label,
+.wpgmza-directions-box label{width:180px;}
+.wpgmza-store-locator input[type="button"]{margin-left:180px;}
+input.wpgmza-directions-from,
+input.wpgmza-directions-to
+{
+display: inline-block;
+width: calc(100% - 72px);
+}

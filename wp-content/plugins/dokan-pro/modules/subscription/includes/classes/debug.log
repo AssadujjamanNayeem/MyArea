@@ -1,0 +1,32 @@
+[27.04.2020 03:55:19] Subscription validity check ( 2020-04-27 ): checking subscription pack validity of user #7. This users subscription pack will expire on 1970-01-01
+[27.04.2020 03:55:19] Product exist check: As the package has expired of user #7 we are checking if he has any product
+[27.04.2020 03:55:20] Subscription validity check ( 2020-04-27 ): checking subscription pack validity of user #20. This users subscription pack will expire on 1970-01-01
+[27.04.2020 03:55:20] Product exist check: As the package has expired of user #20 we are checking if he has any product
+[27.04.2020 03:55:20] Subscription validity check ( 2020-04-27 ): checking subscription pack validity of user #12. This users subscription pack will expire on 1970-01-01
+[27.04.2020 03:55:20] Product exist check: As the package has expired of user #12 we are checking if he has any product
+[27.04.2020 03:55:20] Subscription validity check ( 2020-04-27 ): checking subscription pack validity of user #15. This users subscription pack will expire on 1970-01-01
+[27.04.2020 03:55:20] Product exist check: As the package has expired of user #15 we are checking if he has any product
+[27.04.2020 03:55:20] Subscription validity check ( 2020-04-27 ): checking subscription pack validity of user #16. This users subscription pack will expire on 1970-01-01
+[27.04.2020 03:55:20] Product exist check: As the package has expired of user #16 we are checking if he has any product
+[27.04.2020 03:55:20] Product status check: As the package has expired of user #16, we are changing his existing product status to draft
+[27.04.2020 03:55:20] Subscription validity check ( 2020-04-27 ): checking subscription pack validity of user #2. This users subscription pack will expire on 1970-01-01
+[27.04.2020 03:55:20] Product exist check: As the package has expired of user #2 we are checking if he has any product
+[27.04.2020 03:55:20] Product status check: As the package has expired of user #2, we are changing his existing product status to draft
+[27.04.2020 03:55:20] Subscription validity check ( 2020-04-27 ): checking subscription pack validity of user #24. This users subscription pack will expire on 1970-01-01
+[27.04.2020 03:55:20] Product exist check: As the package has expired of user #24 we are checking if he has any product
+[27.04.2020 03:55:20] Product status check: As the package has expired of user #24, we are changing his existing product status to draft
+[27.04.2020 03:55:20] Subscription validity check ( 2020-04-27 ): checking subscription pack validity of user #25. This users subscription pack will expire on 1970-01-01
+[27.04.2020 03:55:20] Product exist check: As the package has expired of user #25 we are checking if he has any product
+[27.04.2020 03:55:20] Product status check: As the package has expired of user #25, we are changing his existing product status to draft
+[27.04.2020 03:55:20] Subscription validity check ( 2020-04-27 ): checking subscription pack validity of user #26. This users subscription pack will expire on 1970-01-01
+[27.04.2020 03:55:20] Product exist check: As the package has expired of user #26 we are checking if he has any product
+[27.04.2020 03:55:20] Product status check: As the package has expired of user #26, we are changing his existing product status to draft
+[27.04.2020 03:55:20] Subscription validity check ( 2020-04-27 ): checking subscription pack validity of user #27. This users subscription pack will expire on 1970-01-01
+[27.04.2020 03:55:20] Product exist check: As the package has expired of user #27 we are checking if he has any product
+[27.04.2020 03:55:20] Product status check: As the package has expired of user #27, we are changing his existing product status to draft
+[05.05.2020 07:46:47] Product status check: As the package has expired of user #29, we are changing his existing product status to draft
+[05.05.2020 07:46:47] Product status check: As the package has expired of user #29, we are changing his existing product status to draft
+[05.05.2020 07:59:26] Subscription cancel check: Admin has canceled Subscription of User #29 on order #1390
+[05.05.2020 08:03:42] Product status check: As the package has expired of user #29, we are changing his existing product status to draft
+[05.05.2020 08:03:42] Product status check: As the package has expired of user #29, we are changing his existing product status to draft
+[05.05.2020 08:04:12] Subscription cancel check: Admin has canceled Subscription of User #29 on order #1391

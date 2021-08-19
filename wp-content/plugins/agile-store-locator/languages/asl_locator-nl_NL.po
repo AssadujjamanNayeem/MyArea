@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Agile Store Locator\n"
+"POT-Creation-Date: 2017-11-30 13:54+0500\n"
+"PO-Revision-Date: 2017-11-30 13:54+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: agile-store-locator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: public/class-agile-store-locator-public.php:140
+#: public/partials/template-frontend.php:37
+#: public/partials/template-frontend.php:114
+msgid "Directions"
+msgstr "Richting"
+
+#: public/class-agile-store-locator-public.php:141
+msgid "Zoom Here"
+msgstr ""
+
+#: public/class-agile-store-locator-public.php:142
+msgid "Website"
+msgstr ""
+
+#: public/class-agile-store-locator-public.php:143
+msgid "Select Option"
+msgstr ""
+
+#: public/class-agile-store-locator-public.php:144
+msgid "None"
+msgstr ""
+
+#: public/class-agile-store-locator-public.php:288
+msgid "Sun"
+msgstr ""
+
+#: public/class-agile-store-locator-public.php:288
+msgid "Mon"
+msgstr ""
+
+#: public/class-agile-store-locator-public.php:288
+msgid "Tues"
+msgstr ""
+
+#: public/class-agile-store-locator-public.php:288
+msgid "Wed"
+msgstr ""
+
+#: public/class-agile-store-locator-public.php:288
+msgid "Thur"
+msgstr ""
+
+#: public/class-agile-store-locator-public.php:288
+msgid "Fri"
+msgstr ""
+
+#: public/class-agile-store-locator-public.php:288
+msgid "Sat"
+msgstr ""
+
+#: public/partials/template-frontend.php:11
+msgid "Search Location"
+msgstr "Zoeken Location"
+
+#: public/partials/template-frontend.php:13
+msgid "Type your Address"
+msgstr ""
+
+#: public/partials/template-frontend.php:24
+msgid "Loading..."
+msgstr "Laden ..."
+
+#: public/partials/template-frontend.php:53
+msgid "Get Your Directions"
+msgstr "Get Your Richtingen"
+
+#: public/partials/template-frontend.php:56
+msgid "From"
+msgstr "Van"
+
+#: public/partials/template-frontend.php:60
+msgid "To"
+msgstr ""
+
+#: public/partials/template-frontend.php:64
+msgid "Show Distance In"
+msgstr "Show Afstand In"
+
+#: public/partials/template-frontend.php:73
+msgid "GET DIRECTIONS"
+msgstr "DE WEG VRAGEN"
+
+#: public/partials/template-frontend.php:97
+msgid "Phone"
+msgstr "Telefoon"
+
+#: public/partials/template-frontend.php:118
+#: public/partials/template-frontend.php:145
+msgid "Distance"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Agile Store Locator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://agilestorelocator.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Agile Store Locator is a WordPress Store Finder/Locator Plugin that renders "
+"stores list with Location markers on Google Maps v3, it supports GeoLocation "
+"and render nearest stores with direction over google maps."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "AGILELOGIX"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://agilestorelocator.com/"
+msgstr ""
+
+#~ msgid "Details"
+#~ msgstr "gegevens"

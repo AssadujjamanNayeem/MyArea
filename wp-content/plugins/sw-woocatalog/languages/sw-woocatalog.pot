@@ -1,0 +1,183 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SW Woocommerce\n"
+"POT-Creation-Date: 2020-03-14 14:29+0700\n"
+"PO-Revision-Date: 2015-12-25 14:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-list-contact-table.php:23 admin/admin-list-contact-table.php:24
+msgid "WooCatalog Contact"
+msgstr ""
+
+#: admin/admin-list-contact-table.php:41 includes/functions.php:78
+msgid "Contact"
+msgstr ""
+
+#: admin/admin-list-contact-table.php:56
+msgid "SW Contact List Table"
+msgstr ""
+
+#: admin/admin-list-contact.php:15
+msgid "Bookings"
+msgstr ""
+
+#: admin/admin-list-contact.php:16
+msgid "Booking"
+msgstr ""
+
+#: admin/admin-list-contact.php:67
+msgid "No contact available."
+msgstr ""
+
+#: admin/admin-list-contact.php:83 admin/admin-list-contact.php:164
+msgid "Delete"
+msgstr ""
+
+#: admin/admin-list-contact.php:133
+msgid "ID"
+msgstr ""
+
+#: admin/admin-list-contact.php:134 includes/templates/admin-email-form.php:10
+#: includes/templates/user-email-form.php:11
+msgid "Product Name"
+msgstr ""
+
+#: admin/admin-list-contact.php:135
+msgid "Contact Name"
+msgstr ""
+
+#: admin/admin-list-contact.php:136
+msgid "Email"
+msgstr ""
+
+#: admin/admin-list-contact.php:137
+msgid "Message"
+msgstr ""
+
+#: admin/admin-settings.php:34 admin/admin-settings.php:107
+msgid "Sw Woocatalog"
+msgstr ""
+
+#: admin/admin-settings.php:64
+msgid "SW WooCommerce Catalog Settings"
+msgstr ""
+
+#: admin/admin-settings.php:71
+msgid "Enable Catalog Mode"
+msgstr ""
+
+#: admin/admin-settings.php:72
+msgid "Uncheck this checkbox to disable WooCommerce Catalog Mode"
+msgstr ""
+
+#: admin/admin-settings.php:80
+msgid "Enable Catalog Listing"
+msgstr ""
+
+#: admin/admin-settings.php:81
+msgid "Check this field to enable catalog on product listing."
+msgstr ""
+
+#: admin/admin-settings.php:88
+msgid "Disbled Review"
+msgstr ""
+
+#: admin/admin-settings.php:89
+msgid "Uncheck this checkbox to disable review"
+msgstr ""
+
+#: includes/functions.php:71
+msgid "Contact Now"
+msgstr ""
+
+#: includes/functions.php:96
+msgid "There is error with send request, please try again after few minutes"
+msgstr ""
+
+#: includes/functions.php:119 includes/functions.php:136
+msgid "You have new request from "
+msgstr ""
+
+#: includes/functions.php:130 includes/functions.php:144
+msgid "Your message were sent successful! Redirecting..."
+msgstr ""
+
+#: includes/templates/admin-email-form.php:7
+msgid "Dear Admin"
+msgstr ""
+
+#: includes/templates/admin-email-form.php:8
+msgid ""
+"You have recieved a contact email to request a quote price of product with "
+"information"
+msgstr ""
+
+#: includes/templates/admin-email-form.php:11
+#: includes/templates/user-email-form.php:12
+msgid "Customer Name"
+msgstr ""
+
+#: includes/templates/admin-email-form.php:12
+#: includes/templates/user-email-form.php:13
+msgid "Customer Email"
+msgstr ""
+
+#: includes/templates/admin-email-form.php:13
+#: includes/templates/user-email-form.php:14
+msgid "Customer Message"
+msgstr ""
+
+#: includes/templates/contact-form.php:4
+msgid "Your Name"
+msgstr ""
+
+#: includes/templates/contact-form.php:8
+msgid "Your Email"
+msgstr ""
+
+#: includes/templates/contact-form.php:12
+msgid "Your Message"
+msgstr ""
+
+#: includes/templates/contact-form.php:15
+msgid "Send"
+msgstr ""
+
+#: includes/templates/user-email-form.php:8
+#, php-format
+msgid "Dear %s"
+msgstr ""
+
+#: includes/templates/user-email-form.php:9
+msgid "We have recieved a request a quote price of product with information"
+msgstr ""
+
+#: includes/templates/user-email-form.php:16
+#, php-format
+msgid ""
+"We will contact with you on 24 hours working day. If you have any question, "
+"please feel free contact us at email: %s "
+msgstr ""
+
+#: includes/templates/user-email-form.php:18
+msgid "Thanks and Best Regard!"
+msgstr ""
+
+#: sw-woocatalog.php:65
+msgid ""
+"Sw WooCommerce Catalog is enabled but not effective. It requires WooCommerce "
+"in order to work."
+msgstr ""
